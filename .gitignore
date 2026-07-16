@@ -1,0 +1,17 @@
+# Simulation outputs
+*.vcd
+
+# Compiled executables
+*.out
+*.exe
+rca
+
+# Temporary files
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+
+# GTKWave session files
+*.gtkw
