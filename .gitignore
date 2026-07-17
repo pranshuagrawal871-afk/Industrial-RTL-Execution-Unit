@@ -1,17 +1,20 @@
-# Simulation outputs
+# Waveforms
 *.vcd
+*.gtkw
 
-# Compiled executables
-*.out
-*.exe
+# Icarus compiled executables
 rca
+cla4
+logic
 
-# Temporary files
+# Windows executables
+*.exe
+
+# Generic output files
+*.out
+
+# Logs
 *.log
-*.tmp
 
 # VS Code
 .vscode/
-
-# GTKWave session files
-*.gtkw
