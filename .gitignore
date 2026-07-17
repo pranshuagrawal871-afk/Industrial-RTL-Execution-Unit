@@ -1,17 +1,9 @@
+# Build directory
+build/
+
 # Waveforms
 *.vcd
 *.gtkw
-
-# Icarus compiled executables
-rca
-cla4
-logic
-
-# Windows executables
-*.exe
-
-# Generic output files
-*.out
 
 # Logs
 *.log
